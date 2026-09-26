@@ -1,0 +1,319 @@
+/* h1{
+    color: red;
+} /* yaha ho ta hy humhara color property jis sy hum apny kisi bhi ceez color badal sahkty hyn */
+
+/* p{
+    color: darkblue;
+} */
+
+/*button{
+    color: brown; 
+    background-color: #321325;
+
+} yah bhi wohi ceez hy per is main hun ny ek or new ceez ki hy woh hy background property gahsy color property ho ta hy os sy humry text or bhi ceezo ka color set ho ta hy is background property sy humri web ka background property set ho tee hy or ek or ceez ab yaha per dykhyn to miny koi color select nhi kya wah kuch leekah wah hy ab bhot sy color ho ty hyn jin ky nam ho ty hyn matlab blue balck etc per gin ky nam nhi ho ty on ko kahsy select karin to humhary pass do main color system ho ty hyn RGB or HEX css main teen main color ho ty hyn red green or blue ab humhara go neechy set ho wah hy woh rgb hy RGB means red green or blue isis sy mel ker bahki color ban ty hyn rgb numbers ki valu 0 sy ly ker 255 tahk ho tee hy hum jis ka gitna color cahyah ho ta hy hum osy otna leekah ty hyn ab HEX kya ho ta hy yah bhi rgb ki terha ho ta hy per is main 16 number ho ty hyn 0 sy ly ker f tahk matlan 0 sy 6 tahk perh a b c asy hee f tahk ab is main yah ho ta hy ahger rgb main humy ahger kisi color pora cahyah to hum woha 255 leekahyn gah or ahger hex main leekahyn gah to ff leekahn gah or rgb main koi color nhi cahayh ho to hum osy 0 leekahun gah hex main hum 00 leekahn gah matlab double leekahyn gah hymy yah yed ker ny ki zaroorat nhi hy hum google ky color picker sy ga ker is ky rgb number or hex number copy ker ky la asahkty hyn 
+
+body{
+    background-color: rgb(26, 85, 115);
+} */ 
+
+
+/* *{
+    color: green;
+} yah univelsal selector ho ta hy is main hum go go property use ker ty hyn woh sab per a ga tee hy matlab yaha hum ny kahli universal selector bana ya hy per hum ny woha go go html main leekah hy woh kuch ho woh sab per blue color ker dy gah is sy pahly go hum selector use ker rhy thy woh element selector ho ta hy woh maqsoos jis eliment ka hum use ker ty hyn sirif usu py ata hy per yah sab per a ga ta hy is ly is ko universal selector bol ty hyn */
+
+/* h1{
+    color: blue;
+} */
+/* yah humhara element selector ho ta hy jahsa miny bataa yah yah ek maqsoos element ky lya use ho ta hy ab miny gitny bhi h1 leekahyn hon gah os ka color green ho gy gah css styleing uper sy neecy aply ker ta hy to hum ny uper ahger kuch set kya hy per osy neechy a ker change ker dya to woh go neechy leekah hy woh aplay ho gah na ky uper wahlah ab asy hee her element ka ker sahkty hyn  button body pra etc yah miny kitni bar leekahyn ho ahger miny elemnt selector main dal dya ho ty woh sary isis color yah go bhi set kara hy os per set ho gyn gah  */
+
+/* #headingOne{
+    color: chocolate;
+
+}
+#headingtwo{
+
+    color: blueviolet;
+}
+#headingthree{
+
+    color: red;
+}
+#headingfour{
+
+    color: greenyellow;
+} /* yah humhara ho ta hy id selector hum html main kisi elemnt ki ahlag id set ker ty hyn matlab my bhot sary ek hee elemnt main nam rahkaha ab hum ahlag ahlg style yah color yah kuch bhi dy na cahy ty hyn to hum html main apny os elemnt ki ahlag sy id bana dy ty hyn or perh css file main aker osy #tag laga woh id go hum ny wowh leekhi hy osy leekah ker kuch bhi property set ker sahkty hyn cahyn to ek id do elemnt ko bhi dy sahkty hyn per woh ek bory coder ki neesahni ho tee hyn */
+
+/* .myclass{
+    color: darkblue;
+} ab humhry pass ek or selector ho ta hy class selector jab bhi bhot sary elemnt ho ty hyn jisy humy ek hee jahsi property dy nee ho tee hy to hum class selector ka use ker ty hyn yah kam id selector sy bhi ho sahkahth hy per woh ek bed coder ki neesahni ho tee hyn is lya humy jab bhi multiple elemnt ko ek jahsi propertes dy nee ho tee hy to hum class selector ka use ker ker ty hyn isy . dal ky go ap ny html main class ka nam rahkah hy woh leekah ty hyn to yah on sab ko woh propertes dy ta hy */ 
+/* #box{
+    background-color: blue;
+    color: white;
+}
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+} */
+ /* p{
+    text-align: center;
+ } */
+ /* h1{
+    text-align: center;
+ } yaha humhary pass text property ho tee hy means text align property matlab yah text ki position ko set ker ny ky kam ata hy is sy hum apna text right center or left sy gaha sy cahy woha sy sohro ker sahkty hyn abhi css3 main strat or end bhi aya hy gahsy engkish left sy start ho tee hy to ahger humhra text english main hy hum yaha start leekah gah to text left a gy gah or end likah gah to right main a ga gah asi hee ahger urdu main to hum start leekahyn gah to woh right main aga gah q ky woh sy sohro ho tee hy end leekah gah to left main a ga gah yah humhara textalign property ho tee hy */
+ /* h2{
+    text-decoration:red wavy underline 
+ } yah humhara ho ta hy text decoration is ka matlab yah nhi hy ky text ka koi makeup wahgah yah main teen ceezo ky kam ata hy underline , overline and line thorgh ab undeline sab ko pata hy jashy underline neechy ho tee hy over line uper ho tee hy or line through kisi contant ko cut ker ny ky kam atee hy yah nee os text per line agy ghi jis sy woh cut ho wah laga gah ab is main hum color bhi cahnge ker sahkty hyn jahsy kya ho wah hy bes ap ny go color laga na hy os ka nam yah RGB lekah do ab is ky ander os bhii ceezy a ga tee hyn gahsy main ny yaha wavy leekah hy to ab woha per line wavy aghi ab yaha per dotted bhi a ga tee hy to si terha sy hum apni merzi sy ker sahkty hyn or ahger bhol bhi gyn to google per leekah ker mdn or jis ky bary main pata ker na hy woh leekah ker pata ker sahkty hyn ab yh zada ter kam ata hy hum ny koi link dala apni web main <a> is tag use ker ky yah kahsy bhi to os main by defult underline atee hy or hum nhi cahty a to hum ny gahsy abhi underline leekah hy wahsy hee hum none leekah sahkty hyn jis ka matlab woha kuch nhi a gah koi bhi line nhi a ghi yah text decoration ho tee hy */
+ 
+/* #h1{
+    font-weight: bold;
+}
+
+#h2{
+    font-weight: bolder;
+}
+
+#h3{
+    font-weight: lighter;
+}
+
+#h4{
+    font-weight: normal;
+}
+
+#h5{
+    font-weight: 900;
+} ab humhary paas yah ho ta hy font weight yah ho ta hy ky ap ka go fornt hy woh kitna light hy yah kitna dark hy yaha per is ki kuch values atee hy bold yahni tohra jahsy html main heading jahsy deekah tee hy woh bold ho ta hy bolder os sy tohra sa dark ho ta hy perh ho ta hy lighter yahni light sy tohra zada light perh humhary pass ho ta hy normal yahni go normal fornt drkness ho tee hy woh ab yah go bhi light or dark fornt ho ty hyn yah 100 sy 900 tahk ho ty hy yahni sab sy light go ho gah woh 100 ho gah or go sab sy zada dark ho go ta hy woh 900 hy ab is ky beegh main kitni bhi valu leekah sahkty ho yaha hum ny id selctor ka use kya hy samgh ny ky lya ap koi bhi selector main ker sahkty ho */
+
+/* #one{
+    font-family: Arial, Helvetica, sans-serif;
+} yah humhary pas font family ho tee hy matlb ky hum ny go apni web site ka text lekah hy os ka font style kya ho na chayah to osy set ker ny ky liya hum font family ka use ker ty hy ab is main hum ny itny sary q leekah hy woh is lya leekah hyn qk hum ny koi web bana ab koi osy google per open kary gah koi fire fox or ahlhag ahlag browser aty hyn os py ab her broswer her font style ko acept nhi ker ta is lya hum itny sary lrrkah hyn kah ahger arial na ho to perh os ky bad wahah ho gy is lya hum is ka use ker chay to ek bhi leekah sahkah ty hyn */
+
+/* #p1{
+    font-size: 23px;
+}
+
+#p2{
+    font-size: 21px;
+}
+
+#p3{
+    font-size: 10px;
+} yah humhary pass font size ho ta hy jis sy hum apna font size set ker sahkhty hyn css main ek unit ho ta hy absulote ab yah px main bhi ho tah hy inch main bhi cm km sab per hum zada ter go use ker ty hyn woh px yah nee pixcel ho ta hy ek inch ky ander 96 px ho ty hy yah ek bhot cohtah unit ho ta hy hum is sy size ko bara cohtah ker sahkty hyn */
+
+/* #I{
+    line-height: 50px;
+    text-transform: capitalize;
+} yah hum pass line hight ho tee hy jis sy humy pata cahl ta hy humhari go text hy os ky beegh main kitna gap ana cahayh yah hum text ki line ki hight ko use ker ny ky lya ho hy is sy hum apny line ki hight ko manage ker sahkty hy or ahger main normal leekah don is ki valu ki gahagh to koi chnage nhi a gha by defult go tah wahsy hee rahy gah or humhary pss dosra ho ta hy text transform yah use ho ta hy is main 4 valu ho tee hyn lowercase , upercase , capitalize and none ab gap is main lowercase ho ta hy woh ap ky line word yah paraghf ko ky sary words ko small ker dy ta hee isi terha upercase sary words ko bara ker dy ta hy or capitalize her word ky pahly alpahbat ko bara ker dy ta hy or none go ap ny ahger pahly sy text transfrom kya ho wah ho os ko kahtam ker ky by defult py ly ker a gh tah hy gahsah html file mian ho tee hy */
+
+/*  part 2 practice Q1 */
+
+/* *{
+    font-family: Times New Roman, Times, serif;
+} */
+
+/*  part 2 practice Q2 */
+
+/* #hI{
+    text-align: center;
+    text-transform: capitalize;
+} */
+
+/*  part 2 practice Q3 */
+
+/* #outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+} */
+
+/* lavel 2 */
+
+/*Box in css*/
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: pink; 
+     border-width: 2px;
+    border-style: solid;
+    border-color: brown; 
+     border: 2px solid brown;
+    text-align: center;
+    border-radius: 15px; 
+     border-radius: 50%; 
+     padding-left: 20px;
+    padding-top: 20px;
+     
+      padding: 1px 2px 3px 4px 
+      padding: 25x;
+     margin: 25px; 
+} */  /* yah humhary pass sab sy main ceez ho tee hy Box system in css ab is main 5 main ceezy ho tee hyn Hight , Width , Border , Padding and Margin ab sab sy pahly bat ker ty hyn hight ki ab humhary go high ho tee hy hum jahsy text leekah hy cahy woh div main ho heading mai yah pragraf main ho sab py ek hee bat ab hight go ho tee hy hum ny go bhi text img etc kuch bhi leekah hy bana yha hy os ki lambi kitni rahkahnee hy os ky lya hum hight ka use ker ty hy jahsy hum ny is main hight 100 px rahkhi hoi ab humhary pass asi hee width ho tee hy jahsy hum apni ceez ki lambi sat ker ty hy hight sy wahsy hee os ki cohrah ai set ker ty hyn width sy ky os ki cohri kitni ho ghi pory page ki yah kam yah zada jis terha mainy yah set ki hoi hy 100px ab yaha humhary pass tesri ceez a ga tee hy border ab border kea ho ta hy humhry pass go bhi contant leekah ho tah hy os ka ek border ho ta hy yah nee os ki bondri line to osy hum border bol ty hy ab is main humhary pass sab sy pahla a ga ta hy border width yahni border ki cohrahi kitni ho ghi yah humry uper hy hum os ko kitna thik yahni mota dykah na cahty hy to os hesab sy set ker ty hy jahsy hum ny yaha 2px set ki hoi hy ab is main humhary pass ek ceez a ga tee hy border style yahni woh border humy show horaha hy os ki go line show ho rhi hy woh humy kahsi rahkh nee hy hum osy solid go yaha lagi hoi hy yahni ______ asi seedhi line ka go border ata hy osy solid bol ty hy asy hee doted a ga tah hy spaling gahly hy per woh .... asa wahlah ho ta hy asy or bhi border style aty hyn hum osy apny heesab sy set ker sakh ty hy os ky bad border color a ta hy yahni hum border ka color bhi cohce ker sahkty hyn jahsy leekah hy ab border main short hand bhi ata hy yahni jo hum itna style or color or os ki width ahlagh set ker rhy hy osy hum ek hee line mai set ker sahkh ty hy asy "border:2px solid brown " yah ab ek hee line main sab set ho gya time or line dono bahchy to isy shorthand bol ty hy os uper hum ny leekah bhi hy perh humhary pass border main ek or mian ceez a ga tee hy border radius ab by defult go border a tah hy woh a ta hy squar sape main to humy ahger os ky coner tohr corve cayah to to hum border-radius ka use ker ty hy jahsy humny uper kiya ho wah hy 15px hum kitna bhi ker sahkhty hy or is main ek or trick a tee hy ahger hum boder radius ko 50% per set ker dyn to go humahra border ho ta hy woh cricul mian ho ga ta hy pora round sape mian to ahger humy kabhi cahyah ho to hum is ka bhi use ker shakh ty hyn ab humahry pass a ga tah hy padding yah humhara ho ta hy humahry border or content ky beegh main go ghagah ho tee hy osy hum pudding bol ty hyn one more ceez ahger hum ny hight or width yah os ka border set kea ho wah hy or os ko hum text aline ker ty hyn center yah left right kuch bhi to woh page ki canter yah right yah left main nhi a gah ap ny go os ka border ker dya hy to woh os ky center left right os ki heesab sy ho gah page ky heesab sy nhi hun to padding go ho tee hy go hum ny content leekah ho gah os ky or border kyy beegh main go gape ho ta hy osy padding bol ty hy is main top right bouttom or left main ho tee hy cahy to hum isy ispaific kisi position per ker na ho to hum osy mantion ker sahkhty hy is main bhi shorthand ho ta hy hum ny go top right buttom or left ahlag ahlag line or code main leekah hy osy hum ek hee line main set ker sahkhty hy padding leekah ky os main clock wise leekah gah yahni pahly top ki valu perh right ki perh buttom ki or and main left ki sab ki ek hee line main ek he code main sab ki ahlag ahlag valu set ker sahkh ty hy yah padding ho tee hy border or contect ky beegh main go gap ho ta hy osy padding bol ty hy cahy to hym padding leekah ky ek hee valu leekah dyn without mantion to woh sab per ho gy ghi top right buttom left sab per ek hee jahsy uper leekah hy ab humhary pass ahkri main a gata hy Margin ab margin kya ho tee hy margin man lyn ap ny do div bana a or os main koi content leekah ab div to ek box hy na gis main hight width border padding hy isi terha ek div main or dosry div main kitna gap ho gah yah margin sy set ho ta hy is main bhi short hand ho ta hy bulkol padding ki terha or is main bhi ek valu leekah dyn without mantion to woh sab per cahli ga tee hy yah ho ta hy box system in css*/   
+
+/* #part3{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-style: solid;
+    border-radius: 50%;
+    padding: 50px;
+} */
+
+/* *{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#Logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+input{
+    color: black;
+} */
+
+/* div{
+    background-color: chocolate;
+    display: inline;
+} */
+
+/* button{
+    display: block;
+} ab jahsy humy pata hy humary pass html main kuch block elemnt ho ty hyn or kuch inline block elemnt woh ho ty hyn matlab jitna ap ka content hy os elahwah bhi woh pori line ly ty hy cahy content 1 one word hee q na ho os hy block elemnt bol ty hyn or inline woh ho ty hyn go jitna content ho ta hy otni hee gahgah ly ty hy to humary pass css main os ki property bhi badlny ka option hy gasy div ek block elemnt hy per hum ny display property main sy set ker dya diplay inline ab go humhra block elemnt hy woh woh behave kary gah inline ki terha otni hee gahgah ly gah jitna content hy or asy hee hum ny button ek inline elemnt hy hum ny osy block elemnt set ker dya to woh ab block elemnt ki terha behav kary gah or pori line ly gah cahy content one word q na ho */
+
+/* div{
+    height: 100px;
+    width: 100px;
+}
+
+#disone{
+    background-color: blue;
+    display: inline-block;
+    padding: 25px;
+    margin: 25px;
+}
+
+#distwo{
+    background-color: green;
+    display: inline-block;
+    padding: 25px;
+    margin: 25px
+}
+
+#disthree{
+    background-color: red;
+    display: inline-block;
+    padding: 25px;
+    margin: 25px
+
+} ab yah dispaly property mian ek or ceez ho tee hy inline-block yah ho tee inline hee hy per aisy asy q leekah ty hyn os ki wahgah yah hy kah ahger hum inline yah block property set ker ty hyn perh hum os main hight wight or padding margin yah set nhi ker sahkh ty kuch na kuch maslah ata hy woh properly set nhi ho tee to os ky lya hum hum inline-block property set ker ty hyn tahkhy hum os main height width padding margin use ker ty hyn is main humhar pass ek or ceez ho none bhi ho ta hy woh use ho ta hy ahger hum ny kuch elemnt bana yah hy yah document osy page sy hee web page hee hata ny ky liya none use ker ty hy yah per humhary pass ek or ceez atee hy visibility yah bhi humhary none ki terha ho ta hy per none ahger hum dispaly none ker ty hyn to ap ka element yah text yah kuch woh to display sy hat ta hee hat ta hy os ki gahgah bhi nhi rahkah tee per ahger hum yhi per visibility hiddine er ty hyn to text yah koi bhi elemnt hat ta hy per os a gap yahni os ki space rah tee hy  */
+
+/* #alpaone{
+    display: inline-block;
+    margin: 27px;
+    padding: 27px;
+    background-color: rgba(255, 0, 0, 0.75);
+}
+
+#alpatwo{
+    display: inline-block;
+    margin: 27px;
+    padding: 27px;
+    background-color: rgba(0, 255, 0, 1);
+}
+
+#alpathree{
+    display: inline-block;
+    margin: 27px;
+    padding: 27px;
+    background-color: rgba(125, 0, 200, 0);
+} yah humhary pass ho ta hy alpa chenel ahger hum tora sa yed karyn to hum ny perh tah ky humhary pass rgb from ho tee hy color ky lya yah bhi wahsa hee hy isy hum rgba leekah ty hyn R means red G mean green B mean blue and A means alpah ab yah alpa ho ta kea hy yah humhary pass o ta hy ky humhary pass color kitna drak yahi kitna bright ho na cahyah is ki valu 0 sy sohro ho tee hy or 1 tah ho tee hy 0 sy 1 tak ab hum is main hum 0.5 bhi leekah sahkahty hyn 0.75 bhi jitna cahy 1 tahk hum ahger alpa ki valu 0 ker dy ty hyn to humhara  color nhi nazer a gah or 1 ker dy ty hyn to full dark yah bright ho gy gah isy alpa cahnel bol ty hyn */
+
+/* Prectice set 4 Questions */
+
+/* .contentbox{
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    margin: 10px;
+    display: inline-block;
+}
+
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#Logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+input{
+    color: black;
+}
+
+footer{
+    background-color: #0f1111;
+    text-align: center;
+    color: white;
+}
+
+#content{
+    height: 670px;
+} */
+
+/* #personbox1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px;
+
+}
+
+#personbox2{
+    height: 50px;
+    width: 30%;
+    background-color: yellow;
+    margin-left: 10%;
+    font-size : 2em;
+    width: 5em;
+    width: 5rem;
+    height: 20vh;
+    width: 20vw;
+
+
+}  */
+/* yah hum hary pass ho tee hy persontage is main main ny jahsy html main do div create kea ek div os ko id dee personbox1 or per osy ky ander ek div creat kara jis ka nam yahni id hum ny rahki personbox2 or os ky ander text leekah dea boxperson2 ab go uper wahlah div hy jis main yah jis ky ander box 2 bana ho wah hy yahni box 1 humhara prent ho wah or yah box 2 qk ky us ky ander to yah os ka child ho wah ab yaha hum ny box 1 ki valu set kari height 100px or width 100px or background color rahkah dea ab go box 1 ka child hy os ki hight hum ny 50px rahkhi per width 30 % ab yah go 30% rahkhi hy miny woh prent div ka 30 person width ly gah yahni 100 px ki 30 % ban ta hy 30 px to go persontage ho tee hy woh jis elemnt py use ho tee hy woh os ky parent ka persontage ly tee hy or yah css main important calculation hy ab humhary pass ek or ceez a ga tee hy gis ko hum em bol ty hyn yah misal ky tor py miny do div bana a ek preant ek chid to to ahger miny preant main kuch leekah hy or os ka font size jahsy miny 10px rahkah hy or miny box2 yahni child main bhi kuch text leekah or os ka font size miny rahkah dea 1em to is ka matlab ho gah ky mery child ka font size bhi 10px yahni apny parent ky  bara ber ho gah or ahger mint apny child ka font size 2em rahkah dea to mery child ka font size ho gy gah 20px parent ka duble tu is terha yah em font main kam ker ta hy ab yhi py humhary pass ata hy width ab miny jahsy yaha child main width set ki hoi hy 5em ab yah go width hy yah prent sy is ka koi talook nhi hy bulky is main go is ka text leekah hy yah os ky size ky heesab sy hy jahsy mery child ki total ban rhi hy 20px to is ky child ky box ki width bany ghi 100px yahni text ka 5 time bara to is ka taluk prent sy nhi text sy em my ab yaha per humhary pass ek or ceez atee hy root em in short rem ab yah go ho ta hy jahsy hum ny dykah ky humhara go em tah woh woh apny prent elemnt ki sapse ly ta hy per rem go ho tee hy mesal ky tor py humny yah font ka size 2 em rahkah hy per go humhary prent iv hy os ka go text hy os ky dobal ho gah humy isy is ka ahdah bhi ker sahkhty hy 0.5 ker ky per go rem ho ta hy woh gahsy hum ny html main body elemnt ho ta hy woh os ky heesab sy apny ap ko fix ker ta hy ab ahger hum body main koi normal text leekah ty hy tu os text ki size by defult 16px ho tee hy to hum ny yaha 5rem set kea hy ab hum ahger 16 ko 5 sy multiply karyn to woh 80 px ban ta hy to humhary text ki size 80 ho gy ghi zada ter case main css main prent elemnt ky heesab sy sab set ho ta hy per kabhi kabhi woh itself bhi ho ta hy jahsy rem ab yaha per humhary pass ek or ceez a tee hy osy hum kam use ker ty hyn per vh is ka matlab ho tah hy matlab jahsy miny yaha hight set ki hy 20vh ab yah go hy woh 20% ly gah screen ka matlab jitni humhari browser ki screen hy yah os ka 20 person ly gah isi terha vw ata hy go hum width ky lea use ker ty hyn yah bhi same hee hy yah bhi broser screen ka 20% ly gah   */
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px black solid;
+    display: inline-block;
+}
