@@ -1,0 +1,31 @@
+# dependencies
+node_modules/
+
+# build output
+.next/
+out/
+dist/
+build/
+*.tsbuildinfo
+
+# caches
+.ruff_cache/
+__pycache__/
+*.py[cod]
+
+# env
+.env
+.env*.local
+
+# database
+*.db
+*.db-journal
+
+# archives
+*.zip
+
+# misc
+.DS_Store
+Thumbs.db
+npm-debug.log*
+.vercel

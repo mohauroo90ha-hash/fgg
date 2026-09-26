@@ -1,0 +1,52 @@
+{
+  "name": "mtraders",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "db:push": "prisma db push",
+    "db:seed": "prisma db seed",
+    "postinstall": "prisma generate",
+    "vercel-build": "prisma generate && prisma db push && next build"
+  },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "@vercel/blob": "^2.6.1",
+    "bcryptjs": "^3.0.3",
+    "clsx": "^2.1.1",
+    "embla-carousel-autoplay": "^8.6.0",
+    "embla-carousel-react": "^8.6.0",
+    "framer-motion": "^13.0.0",
+    "lucide-react": "^1.28.0",
+    "next": "^15.5.22",
+    "next-auth": "^4.24.15",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "tailwind-merge": "^3.6.0",
+    "zod": "^4.4.3",
+    "zustand": "^5.0.14"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.1.2",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "postcss": "^8.5.25",
+    "prisma": "^6.19.3",
+    "tsx": "^4.23.7",
+    "typescript": "^5.9.3"
+  },
+  "allowScripts": {
+    "@prisma/engines@6.19.3": true,
+    "esbuild@0.28.1": true,
+    "prisma@6.19.3": true,
+    "sharp@0.34.5": true,
+    "@prisma/client@6.19.3": true
+  }
+}

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Black background -->
+  <rect width="512" height="512" rx="96" fill="#000000"/>
+
+  <!-- Blue A -->
+  <path
+    d="M150 390
+       L256 120
+       L362 390
+       M190 300
+       L322 300"
+    fill="none"
+    stroke="#00A8FF"
+    stroke-width="36"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
